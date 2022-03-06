@@ -2009,3 +2009,28 @@ textarea {
         min-width: 25rem
     }
 }
+/*OPENCLASH*/
+        .ip-title {
+            font-weight: normal !important;
+            color: #fafafa !important;  /*IP标题*/
+        }
+        .ip-state_title {
+            font-weight: normal !important;
+            color: #fafafa !important;  /*特定网站检测标题*/
+        }			
+        .ip-result {
+            color: #008000 !important;  /*IP地址结果*/
+        }
+        .ip-geo {
+            color: #008000 !important;  /*IP地理位置*/
+		}	
+        .ip-checking {
+            color: #fafafa !important;  /*？？*/		
+	    }
+        .sk-text-success {
+            color: #008000 !important;  /*特定网站检测通过*/			
+		}
+		.cbi-map-descr,
+		.cbi-section-descr {
+			color: #d8d3c5 !important;  /*介绍说明文字*/		
+		}
