@@ -2023,14 +2023,14 @@ textarea {
         }
         .ip-geo {
             color: #008000 !important;  /*IP地理位置*/
-		}	
+	}	
         .ip-checking {
             color: #fafafa !important;  /*？？*/		
-	    }
+	}
         .sk-text-success {
             color: #008000 !important;  /*特定网站检测通过*/			
-		}
-		.cbi-map-descr,
-		.cbi-section-descr {
-			color: #d8d3c5 !important;  /*介绍说明文字*/		
-		}
+	}
+        .cbi-map-descr,
+        .cbi-section-descr {
+            color: #d8d3c5 !important;  /*介绍说明文字*/		
+	}
