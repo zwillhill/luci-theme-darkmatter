@@ -2034,3 +2034,6 @@ textarea {
         .cbi-section-descr {
             color: #d8d3c5 !important;  /*介绍说明文字*/		
 	}
+        .sub_tab_show {
+            color: #fafafa !important;  /*套餐流量*/
+        }
