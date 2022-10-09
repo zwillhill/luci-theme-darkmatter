@@ -2032,7 +2032,8 @@ textarea {
 	}
         .cbi-map-descr,
         .cbi-section-descr {
-            color: #d8d3c5 !important;  /*介绍说明文字*/		
+            color: #d8d3c5 !important;  /*介绍说明文字*/
+	    background: transparent !important;
 	}
         .sub_tab_show {
             color: #fafafa !important;  /*套餐流量*/
